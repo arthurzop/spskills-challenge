@@ -1,5 +1,5 @@
-### Desafio SP Skills 
+## Desafio SP Skills 
 
-## Collaborators
+### Collaborators
 - @ghsbrito
 - @henriquedouradoo
